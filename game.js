@@ -16,7 +16,7 @@ function nextSequence() {
     $("#" + randomChosenColour).fadeIn(100).fadeOut(100).fadeIn(100);
     playSound(randomChosenColour);
     level += 1;
-    $("#level-title").text("Level " + level);
+    $("#level-title").text("Level" + level);
 }
 
 
