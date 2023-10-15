@@ -23,6 +23,3 @@ _checkUserResponse_ = checks whether the user is entering correct pattern or not
 _startOver_ = called when the game ends.
 
 
-## __project credit__
-
-_Angela Yu complete web development bootcamp 2023_
